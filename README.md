@@ -1,5 +1,5 @@
-# Bachelor-Thesis
-A repository for my Bachelor Thesis pdf: "Deep Learning Based End-to-End Text-Independent Speaker Verification".
+# Bachelor's-Thesis
+A repository for my Bachelor's Thesis pdf: "Deep Learning Based End-to-End Text-Independent Speaker Verification".
 
 # Abstract
 Speech processing is one of the most active areas of research and development in Deep Learning.
